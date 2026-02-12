@@ -3,7 +3,7 @@ Signup Page
 
 
 Upon Successful Signup Email is sent
-<img width="1483" height="641" alt="image" src="https://github.com/user-attachments/assets/30c34fe0-31a1-4e5a-8a2e-6e69ef59c98a" />
+<img width="869" height="540" alt="image" src="https://github.com/user-attachments/assets/98fc20a4-9be6-4745-b9ce-c793f5d1c25c" />
 
 
 Login Page
