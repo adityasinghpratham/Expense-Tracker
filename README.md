@@ -2,6 +2,10 @@ Signup Page
 <img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/0c348519-2c9e-4479-973b-a9e7956545f4" />
 
 
+Upon Successful Signup Email is sent
+<img width="1483" height="641" alt="image" src="https://github.com/user-attachments/assets/30c34fe0-31a1-4e5a-8a2e-6e69ef59c98a" />
+
+
 Login Page
 <img width="1893" height="822" alt="image" src="https://github.com/user-attachments/assets/c6871310-a194-472d-8cc8-b2198ecfb542" />
 
